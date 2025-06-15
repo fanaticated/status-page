@@ -14,9 +14,9 @@ export const Header = memo(function Header() {
           transition={{ duration: 0.3 }}
         >
           <a
-            href="https://traumasoftware.net"
+            href="https://fanaticated.com"
             className="flex items-center gap-4 hover:opacity-80 transition-opacity"
-            aria-label="Go to Waffle.Host homepage"
+            aria-label="Go to Fanaticated.com homepage"
           >
             <MotionDiv
               whileHover={{ scale: 1.05 }}
@@ -24,15 +24,15 @@ export const Header = memo(function Header() {
               role="img"
             >
               <Image
-                src="/logo.png"
-                alt="Waffle.Host Logo"
+                src="/icon.png"
+                alt="Fanaticated.com Logo"
                 width={64}
                 height={64}
                 className="relative h-12 w-12 rounded-xl shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-primary/25"
               />
             </MotionDiv>
             <span className="text-xl font-semibold tracking-tight">
-              Traumasoftware.net
+              Fanaticated.com
             </span>
           </a>
         </MotionDiv>
