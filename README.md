@@ -6,7 +6,7 @@ A modern, beautiful status page built on top of the Hetrix Tools API, This proje
 
 ## Demo
 
-https://status.fanaticated.com (Deployed on Cloudflare Pages)
+[https://status.fanaticated.com](https://status-page-k4y.pages.dev/) (Deployed on Cloudflare Pages)
 
 ## Getting Started
 
